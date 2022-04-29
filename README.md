@@ -9,3 +9,4 @@
 
 ![image](https://user-images.githubusercontent.com/52922458/165937445-704ba433-159b-47f0-baff-6c0e15fa6447.png)
 
+맨 하단의 파일은 sql script입니다.
